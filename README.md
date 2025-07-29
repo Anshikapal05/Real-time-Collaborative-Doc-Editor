@@ -71,3 +71,6 @@ The Real-Time Collaborative Document Editor was a highly challenging yet rewardi
 
 ## Code Output
 
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/106639ac-6830-4304-9679-028998f8252b" />
+
+
